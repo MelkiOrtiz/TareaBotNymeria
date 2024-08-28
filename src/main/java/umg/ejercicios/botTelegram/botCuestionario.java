@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+//Melki Ortiz
 public class botCuestionario extends TelegramLongPollingBot {
     private final Map<Long, Integer> indicePregunta = new HashMap<>();
     private final Map<Long, String> seccionActiva = new HashMap<>();
